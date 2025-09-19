@@ -1,2 +1,2 @@
 # project
-Beka izmeni
+Beka izmenil
